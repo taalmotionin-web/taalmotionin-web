@@ -1,16 +1,13 @@
-## Hi there 👋
+# Taal Motion
 
-<!--
-**taalmotionin-web/taalmotionin-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Motion design studio from India.** Product launch films, app and SaaS explainers, 3D product ads, social cutdowns and logo animation.
 
-Here are some ideas to get you started:
+*Taal* means rhythm: every cut lands on the beat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Taal Motion showreel](showreel.gif)
+
+- 🎬 Showreel and work: [taalmotion.netlify.app](https://taalmotion.netlify.app)
+- 💼 Hire me on Upwork or message me on [LinkedIn](https://www.linkedin.com/in/shadi-mihran-27b01b446/)
+- 🧩 Built in code: HTML, GSAP and Three.js, rendered frame by frame. See [taal-motion-showreel](https://github.com/taalmotionin-web/taal-motion-showreel).
+
+*All pieces shown are Taal Motion concept and studio work.*
